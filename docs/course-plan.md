@@ -2,9 +2,44 @@
 
 ## Core Promise
 
-Turn engineering students into AI-powered product builders who can identify real problems, build practical solutions, work in teams, communicate with customers, and launch viable businesses.
+Turn engineering students into AI-powered real-world problem solvers who can identify meaningful problems, understand physical and business context, assemble practical solutions, work in teams, communicate with customers, and launch viable businesses.
 
-The course is not a generic AI tools workshop. It is a 75-day, 750-hour venture-building program where students use AI as a real coworker across thinking, software, hardware, manufacturing, communication, finance, and execution.
+The course is not a generic AI tools workshop and it is not a software startup factory. It is a 75-day, 750-hour venture-building program where students use AI as a real coworker across thinking, field research, hardware, manufacturing, operations, minimum useful software, communication, finance, and execution.
+
+## Design Doctrine
+
+The program must be designed around this hierarchy:
+
+1. Real problem first
+2. Reality and context second
+3. Practical solution design third
+4. AI as accelerator
+5. Software as glue, interface, data layer, or automation layer
+6. Business model as delivery system
+
+Software is important, but it is not the default output. Most software-only products will become cheap as AI improves. The scarce skill is understanding messy real-world problems and deciding what combination of hardware, process, people, data, software, AI, manufacturing, and business model can actually solve them.
+
+### What The Course Should Avoid
+
+- Generic SaaS apps
+- Clone apps
+- Todo apps
+- Chatbots without real operational value
+- Dashboards without real data
+- AI wrappers that do not change a real workflow
+- Startup ideas that exist only as pitch decks or landing pages
+
+### What The Course Should Produce
+
+- Factory workflow improvements
+- Inspection, sorting, tracking, or monitoring systems
+- Low-cost hardware jigs or tools
+- Data collection and decision workflows
+- Quality control or maintenance processes
+- Local business order, inventory, support, or coordination systems
+- Physical products with manufacturing plans
+- AI-assisted service businesses
+- Hybrid hardware, operations, software, and business solutions
 
 ## Business Model
 
@@ -22,7 +57,7 @@ The course is not a generic AI tools workshop. It is a 75-day, 750-hour venture-
 - Batch size: 30 students
 - Revenue per batch: Rs 15,00,000
 - Four batches: Rs 60,00,000 gross revenue
-- Positioning: practical AI product engineering with real prototypes, customer work, and business launch support
+- Positioning: practical AI-powered problem solving with real prototypes, customer work, field validation, and business launch support
 
 ### Premium Cohort
 
@@ -65,7 +100,7 @@ The course should not admit students only by marks. The right student is curious
 
 - 30 students per batch
 - 6 venture teams of 5 students
-- Each team should mix software, mechanical/electrical, operations, communication, and business interest
+- Each team should mix problem discovery, mechanical/electrical, operations, minimum useful software/data, communication, and business interest
 - Every student owns an individual role and weekly measurable output
 
 ## Course Duration
@@ -76,17 +111,37 @@ The course should not admit students only by marks. The right student is curious
 - Total hours: 750 hours
 - Shape: 12 full weeks plus 3 final demo/incubation days
 
-## Daily Rhythm
+## Operating Rhythm
 
-| Time | Activity | Purpose |
+The program should not use the same daily routine for all 75 days. A fixed schedule would become fake because early days need mindset repair, middle days need field and build work, and later days need launch pressure.
+
+Instead, use day templates that change by phase.
+
+| Day Type | Main Use | Typical Shape |
 | --- | --- | --- |
-| 09:00-10:00 | Thinking lab | Decomposition, assumptions, estimation, first principles |
-| 10:00-11:30 | Skill sprint | AI workflow, software, hardware, manufacturing, business, or communication |
-| 11:30-13:00 | Guided build | Apply the morning skill to the team venture |
-| 14:00-16:00 | Deep work | Team execution with mentor check-ins |
-| 16:00-17:00 | Customer/research block | Interviews, market research, competitor study, costing |
-| 17:00-18:00 | Review and demo | Daily proof, AI feedback, peer critique, next actions |
-| 18:00-19:00 | Individual clinic | Weakness-specific coaching, catch-up, role coaching |
+| Foundation day | Repair thinking and learning habits | Thinking lab, AI workflow, individual exercises, reflection |
+| Skill sprint day | Teach one practical capability | Short input, guided practice, artifact submission |
+| Fieldwork day | Understand real problems | Interviews, observations, photos/notes, problem mapping |
+| Build day | Create or improve the solution | Team execution, mentor reviews, individual contribution checks |
+| Reality test day | Check if the solution works outside the classroom | Customer feedback, process trial, data collection, cost check |
+| Review day | Prevent drift and expose weak work | Demo, critique, AI report, mentor clinic, next-week planning |
+| Business day | Convert solution into venture | Pricing, delivery model, legal/accounting basics, sales material |
+| Demo day | Communicate evidence | Public demo, jury feedback, decision gate |
+
+Each week should mix these templates. The exact 75-day schedule should assign a day type, objective, outputs, mentor checks, and individual accountability for every day.
+
+## Schedule Design Rules
+
+Before writing the detailed 75-day schedule, every day should pass these checks:
+
+- Does this day improve problem-solving ability, not just tool familiarity?
+- Is the output visible and reviewable?
+- Is software used only if it helps capture data, coordinate people, control a process, expose insight, or deliver the solution?
+- Is there enough field reality before solution building?
+- Does every team member have an individual responsibility?
+- Does the day create evidence for mentor review or AI monitoring?
+- Does the day reduce uncertainty about the problem, solution, customer, cost, or delivery model?
+- Does the week include at least one review or demo moment?
 
 ## AI-Monitored Learning System
 
@@ -145,18 +200,21 @@ AI can monitor and recommend, but mentors make final decisions. The goal is indi
 - AI-assisted documentation
 - Building repeatable workflows
 
-### Track 3: Software Product Building
+### Track 3: Minimum Useful Software and Data
 
 - Git and GitHub
-- Web apps
+- Forms and simple interfaces
 - APIs
 - Databases
-- Authentication
-- Payments basics
-- Deployment
-- Testing
-- Analytics
-- Documentation
+- Dashboards
+- Sensor or process data capture
+- Workflow automation
+- AI-assisted document/image/data processing
+- Testing and verification
+- Deployment only when the solution needs it
+- Documentation for users and operators
+
+The rule for this track: build only the software required to interact with the real world, manage useful data, control a process, coordinate people, or make the solution usable.
 
 ### Track 4: Hardware and Manufacturing
 
@@ -228,14 +286,16 @@ Output: 10 problem breakdowns and one local problem selected for deeper explorat
 
 Output: AI workflow playbook and verified research dossier.
 
-### Phase 4: Software Sprint - Days 19-30
+### Phase 4: Digital Tools For Real-World Work - Days 19-30
 
-- Build and deploy a practical web app
-- Database, auth, APIs, deployment, testing
-- Each student contributes visible commits
-- AI helps generate, explain, test, and refactor
+- Learn the minimum software needed for real-world solutions
+- Capture data from people, machines, documents, images, or processes
+- Store and organize useful data
+- Create simple interfaces, dashboards, forms, or automations
+- Use AI to generate, explain, test, and improve tools
+- Connect digital tools to actual field problems
 
-Output: deployed software product v1.
+Output: a working digital tool that supports a real process, not a generic app.
 
 ### Phase 5: Hardware and Manufacturing Sprint - Days 31-42
 
@@ -258,13 +318,13 @@ Output: 20 customer conversations per team and shortlisted business idea.
 
 ### Phase 7: Venture Build 1 - Days 49-60
 
-- Teams build MVPs
+- Teams build solution prototypes
 - Weekly public demos
 - Pricing and landing page
 - First outreach campaign
 - Technical and business mentorship
 
-Output: working MVP, website, demo video, first customer feedback.
+Output: working solution prototype, evidence page or website where useful, demo video, and first customer feedback.
 
 ### Phase 8: Venture Build 2 - Days 61-72
 
@@ -292,13 +352,13 @@ Output: 2 to 3 incorporated ventures, cohort portfolio, alumni roadmap.
 | 1 | Personal AI workbench and first shipped artifact |
 | 2 | Problem analysis portfolio |
 | 3 | AI coworker workflow system |
-| 4 | Deployed web app |
-| 5 | Software product with database/auth/API |
+| 4 | Data capture, dashboard, automation, or interface for a real process |
+| 5 | Minimum useful digital tool connected to a field problem |
 | 6 | Hardware/manufacturing concept package |
 | 7 | Costed prototype and supplier map |
 | 8 | Customer discovery report |
-| 9 | MVP v1 and landing page |
-| 10 | Customer-tested MVP |
+| 9 | Solution prototype v1 and evidence page |
+| 10 | Customer-tested solution |
 | 11 | Revenue experiment |
 | 12 | Launch-ready venture package |
 | Final 3 days | Demo day and incorporation sprint |
@@ -307,13 +367,28 @@ Output: 2 to 3 incorporated ventures, cohort portfolio, alumni roadmap.
 
 Each cohort should create 6 venture teams. Every team builds a business candidate, but only the strongest 2 to 3 should be incorporated by the end of the course.
 
+### Acceptable Venture Types
+
+Teams should not be pushed toward software-only ideas. A strong venture can be:
+
+- Hardware-led
+- Manufacturing-led
+- Operations-led
+- Service-led
+- Data-led
+- Inspection or quality-led
+- Maintenance or monitoring-led
+- Training or consulting-led
+- Marketplace or logistics-led
+- Software-supported only where the software enables a real-world result
+
 ### Incorporation Readiness Checklist
 
 - Real customer problem
 - Clear buyer
-- MVP or service delivery process
+- Prototype, process improvement, hardware concept, service delivery method, or minimum useful software
 - Pricing model
-- Basic website and lead capture
+- Evidence page, website, or lead capture where relevant
 - Founding team roles
 - Unit economics
 - First customer conversations
@@ -352,7 +427,7 @@ Even though the program is team-based, each student needs a personal growth path
 
 - 75-day attendance and execution record
 - Personal portfolio
-- Deployed software product
+- Minimum useful software, data, or automation artifact where needed
 - Hardware/manufacturing project package
 - Customer interview evidence
 - Team venture contribution
@@ -364,7 +439,7 @@ Even though the program is team-based, each student needs a personal growth path
 
 - 30 students trained
 - 6 venture teams
-- 6 MVPs
+- 6 solution prototypes
 - 2 to 3 incorporated businesses
 - 100+ customer interviews
 - 30 personal portfolios
@@ -387,7 +462,7 @@ Engineering students in Hyderabad who want practical capability, not another cer
 
 Differentiator:
 
-Software, AI, manufacturing, business, and communication in one practical program.
+Problem discovery, AI, hardware, manufacturing, operations, minimum useful software, business, and communication in one practical program.
 
 Proof to collect:
 
@@ -397,4 +472,3 @@ Proof to collect:
 - GitHub/project artifacts
 - Business incorporation stories
 - College partner testimonials
-

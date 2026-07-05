@@ -1,6 +1,6 @@
 # AI Product Engineering Academy
 
-Static HTML presentation and marketing site for a 75-day practical AI product engineering course for engineering students in Hyderabad.
+Static HTML presentation and marketing site for a 75-day practical AI-powered real-world problem solving course for engineering students in Hyderabad.
 
 ## What Is Included
 
@@ -23,4 +23,3 @@ Then open `http://localhost:5173`.
 ## Signup Form
 
 The form currently validates entries and saves demo submissions in the visitor's browser. Before running paid campaigns, connect it to a real endpoint such as a CRM, Google Forms, Airtable, Formspree, or a custom API.
-
