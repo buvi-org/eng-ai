@@ -8,6 +8,7 @@ Static HTML presentation and marketing site for a 75-day practical AI-powered re
 - `styles.css` - responsive visual design
 - `script.js` - lightweight signup validation and local demo capture
 - `docs/course-plan.md` - full business and curriculum plan
+- `docs/phase-01-days-01-06.md` - detailed draft for the first six course days
 - `assets/hero-ai-product-engineering.png` - generated hero image for the site
 
 ## Run Locally

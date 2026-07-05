@@ -260,9 +260,12 @@ The rule for this track: build only the software required to interact with the r
 - Understand the AI wave and why college learning is insufficient
 - Baseline tests for thinking, communication, AI use, and execution
 - Set up tools: laptop, GitHub, AI workspace, notes, task board
-- Ship first tiny artifact in 24 hours
+- Create first visible evidence artifact in 24 hours
+- Build first tiny useful real-world artifact by Day 4
 
-Output: personal AI workbench, baseline profile, first shipped mini-project.
+Output: personal AI workbench, baseline profile, problem observation notebook, and first tiny useful artifact.
+
+Detailed draft: [Phase 1 Detailed Draft: Days 1-6](phase-01-days-01-06.md)
 
 ### Phase 2: Thinking Like a Builder - Days 7-12
 
@@ -349,7 +352,7 @@ Output: 2 to 3 incorporated ventures, cohort portfolio, alumni roadmap.
 
 | Week | Main Outcome |
 | --- | --- |
-| 1 | Personal AI workbench and first shipped artifact |
+| 1 | Personal AI workbench, baseline profile, observation notebook, and first tiny useful artifact |
 | 2 | Problem analysis portfolio |
 | 3 | AI coworker workflow system |
 | 4 | Data capture, dashboard, automation, or interface for a real process |
